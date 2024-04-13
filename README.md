@@ -4,7 +4,7 @@ Extracts server access keys from 3DS and WiiU ROM dumps
 
 ## Usage
 
-`node extractor <path> [packet]`
+`go run extractor.go <path> [packet]`
 
 ## Arguments
 
